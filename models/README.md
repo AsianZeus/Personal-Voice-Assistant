@@ -1,2 +1,2 @@
-# Personal-Voice-Assistant
-This is the diretory for the moedels of Language classification, Speech Recognition, Machine Translation, Restoring Punctuation, Conversational and Speech Synthesis.
+# Model's Directory
+This is the diretory for the models of Language classification, Speech Recognition, Machine Translation, Restoring Punctuation, Conversational and Speech Synthesis.

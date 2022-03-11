@@ -5,8 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
-
+asr_en/
+asr_hi/
+conversational/
+language_classifier/
+mmt_hi2en/
+restore_punct/
+tts/
 # Distribution / packaging
+.DS_Store
 .Python
 build/
 develop-eggs/

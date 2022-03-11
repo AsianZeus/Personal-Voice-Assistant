@@ -1,0 +1,9 @@
+eng_model_path = "models/asr_en"
+hi_model_path = "models/asr_hi"
+id2label_path = 'id2label.pkl'
+mt_model_path = "models/mmt_hi2en"
+coversational_model_path = "models/conversational"
+tts_model_path = ["models/tts/pytorch_model.pt"]
+tts_path = "models/tts/"
+speech_classifier_path = "models/language_classifier"
+restore_punct_model_path = "models/restore_punct"
